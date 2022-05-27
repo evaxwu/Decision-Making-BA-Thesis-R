@@ -28,3 +28,5 @@ The following files were included in this repository:
 * the [R markdown file](data-analysis.Rmd) used to import, tidy, explore and analyze data and render the report,
 * the rendered [Markdown document](data-analysis.md) containing the report generated, and
 * the [folder](data-analysis_files) containing all the figures created.
+
+*Note: if you need the data, contact me at wux17@alumni.wfu.edu*
